@@ -1,0 +1,39 @@
+{
+  "dependencies": {
+    "colors": "^1.3.0",
+    "discord-rpc": "^3.0.0-beta.10",
+    "js-yaml": "^3.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "name": "rich_presence",
+  "version": "0.0.1",
+  "description": "Set your current game to a custom status",
+  "main": "index.js",
+  "author": "Wessel Tip <wessel@go2it.eu>",
+  "publisher": "Wessel Tip <wessel@go2it.eu>",
+  "maintainers": [
+    "Wessel Tip <wessel@go2it.eu>"
+  ],
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PassTheWessel/rich-presence.git"
+  },
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/PassTheWessel/rich-presence/issues"
+  },
+  "homepage": "https://github.com/PassTheWessel/rich-presence#readme",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "discord",
+    "rich_presence"
+  ]
+}
